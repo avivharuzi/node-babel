@@ -1,2 +1,3 @@
-# node-babel
-basic node.js server using babel
+# Node Babel
+
+Basic Node.js server using Babel.
